@@ -9,4 +9,3 @@ This project is a Django REST Framework application designed to manage country d
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
