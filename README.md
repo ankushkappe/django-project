@@ -5,7 +5,7 @@ In this project, a Django REST Framework application was set up using Django 5.0
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
+- [Installation]
+- [Usage]
+- [API Endpoints]
+- [Contributing]
